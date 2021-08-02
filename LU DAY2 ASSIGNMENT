@@ -1,0 +1,83 @@
+<html>
+
+<body>
+  <center>
+    <div>
+      
+  <!-- first part -->
+
+  <h1>Harikrishnan's Blog</h1>
+  <h3>Let's get started</h3>
+  
+  <!-- second part -->
+  
+  <h2>JACKIE CHAN</h2>
+  <span>Published on 2nd AUGUST</span>
+  <center><img src="https://th.bing.com/th/id/OIP.ogWto-FWLYWeVOcYjR58dgHaD_?pid=ImgDet&rs=1"></center>
+  
+  <!-- third part -->
+  
+  
+  <p>Chan Kong-sang (listen) SBS MBE PMW (Chinese: 陳港生; born 7 April 1954), known professionally as Jackie Chan,
+ is a Hong Kong actor and martial artist known for his slapstick acrobatic fighting style, comic timing, and innovative stunts,
+ which he typically performs himself. He has trained in Wushu and Hapkido, and has been acting since the 1960s,
+ performing in more than 150 films.He is one of the most popular action film stars of all time.</p>
+  
+  <h3>VANGUARD</h3>
+         <img src="https://wallpapercave.com/wp/wp5444854.jpg">
+  <i><p>Vanguard is a 2020 Chinese action-adventure film written and directed by Stanley Tong and starring Jackie Chan, Yang Yang and Miya Muqi.
+ It marks Chan's sixth collaboration with Tong.
+Vanguard was originally scheduled to be released on 25 January 2020 in China but was postponed due to the COVID-19 pandemic. 
+It was later released on 30 September 2020 in China, 20 November 2020 in the United States, and 25 December 2020 in India</p></i>
+
+  <p>vanguard is the latest flim of the legend JACKIE CHAN</p>
+        
+    </div>
+    </center>
+</body>
+
+</html>
+CSS CODE
+body {
+  background: linear-gradient(180deg, pink, cyan);
+}
+
+h1 {
+  font-size: 80px;
+  background-color: white;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+span {
+  font-size: 20px;
+}
+
+p {
+  font-size: 25px;
+}
+
+div {
+  width: 750px;
+}
+
+img {
+  width: 80%;
+}
+
+button{
+   font-size: 15px;
+  background-color: pink;
+  font-family: "Times New Roman", Times, serif;
+font-style: italic;
+font-size: 20px;
+font-weight: bold;
+font-variant: small-caps;
+  
+}
